@@ -1,6 +1,4 @@
 import { Card } from "./UseCard";
-import Home from '../utils/icons8-home-50.png'
-import Scope from "../utils/stethoscope-clipart-transparent-background-13.png"
 import { useEffect } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css"
